@@ -1,116 +1,52 @@
 [
   {
     "id": "own-demo-1",
-    "name": "Ex-Army Boys Hostel",
+    "name": "Demo",
     "email": "demo@sunrisepg.com",
     "passwordHash": "abb49a1d23d2997960e94ec8f295fd2e:651540bded295bea02dff73506c8dd99c9fa2e4d0aa096212b7bc38859475e1fafe5f811cb2e0ebeaba040177ed28a5096346ac0bdb38aec31b3931d4b144502",
-    "slug": "ex-army-boys-hostel",
-    "phone": "+918725959828",
-    "whatsapp": "+918725959828",
-    "website": "https://intervals-donna-rating-brass.trycloudflare.com/",
-    "tagline": "Boys PG on Piprali Road, Sikar with Best Study Environment",
-    "about": "Ex-Army Boys Hostel is a boys' paying guest accommodation in Piprali Road, Sikar. We offer Triple, Double and Single sharing AC & non-AC rooms with home-style 3 meals daily, WiFi, laundry, hot water and power backup.",
-    "city": "Sikar",
-    "address": "Near Milan Marriage Garden, Pooja Water Supplier Wali Gali, Piprali Road, Sikar - 332001",
-    "brandName": "Ex-Army",
+    "slug": "demo",
+    "phone": "demo",
+    "whatsapp": "demo",
+    "website": "",
+    "tagline": "demo",
+    "about": "demo",
+    "city": "demo",
+    "address": "demo",
+    "brandName": "Demo",
     "brandColor": "#d97706",
-    "carousel": [
-      "/api/uploads/ex-army-1.jpg",
-      "/api/uploads/demo-1.jpeg",
-      "/api/uploads/demo-2.jpeg",
-      "/api/uploads/demo-3.jpeg",
-      "/api/uploads/demo-4.jpeg",
-      "/api/uploads/demo-5.jpeg",
-      "/api/uploads/demo-6.jpeg",
-      "/api/uploads/demo-7.jpeg",
-      "/api/uploads/demo-8.jpeg",
-      "/api/uploads/demo-9.jpeg",
-      "/api/uploads/demo-10.jpeg",
-      "/api/uploads/demo-11.jpeg"
-    ],
+    "carousel": [],
     "branches": [
       {
         "id": "br-demo-1",
-        "name": "Ex-Army Boys Hostel",
-        "gender": "male",
-        "city": "Sikar",
-        "locality": "Piprali Road",
-        "address": "Near Milan Marriage Garden, Pooja Water Supplier Wali Gali, Piprali Road, Sikar - 332001",
-        "description": "Ex-Army Boys Hostel paying guest accommodation in Piprali Road, Sikar. Triple, double and single sharing AC & non-AC rooms with 3 meals a day.",
+        "name": "Demo",
+        "gender": "unisex",
+        "city": "demo",
+        "locality": "demo",
+        "address": "demo",
+        "description": "demo",
         "amenities": [
-          "WiFi",
-          "Food (3 meals)",
-          "AC Rooms",
-          "Laundry",
-          "Power Backup",
-          "CCTV",
-          "Hot Water",
-          "Housekeeping"
+          "demo"
         ],
         "highlights": [
-          "Boys-only hostel",
-          "3 home-style meals daily",
-          "AC & non-AC rooms",
-          "High-speed WiFi",
-          "Power backup 24/7",
-          "CCTV security"
+          "demo"
         ],
         "pricing": [
           {
-            "type": "Triple Sharing",
-            "price": 8000,
-            "meals": "3 meals"
-          },
-          {
-            "type": "Double Sharing",
-            "price": 8500,
-            "meals": "3 meals"
-          },
-          {
-            "type": "Single",
-            "price": 10000,
-            "meals": "3 meals"
-          },
-          {
-            "type": "AC Double Sharing",
-            "price": 10500,
-            "meals": "3 meals"
-          },
-          {
-            "type": "AC Single",
-            "price": 11000,
-            "meals": "3 meals"
+            "type": "demo",
+            "price": 1000,
+            "meals": "demo"
           }
         ],
-        "images": [
-          "/api/uploads/ex-army-1.jpg",
-          "/api/uploads/demo-1.jpeg",
-          "/api/uploads/demo-2.jpeg",
-          "/api/uploads/demo-3.jpeg",
-          "/api/uploads/demo-4.jpeg",
-          "/api/uploads/demo-5.jpeg",
-          "/api/uploads/demo-6.jpeg",
-          "/api/uploads/demo-7.jpeg",
-          "/api/uploads/demo-8.jpeg",
-          "/api/uploads/demo-9.jpeg",
-          "/api/uploads/demo-10.jpeg",
-          "/api/uploads/demo-11.jpeg",
-          "/api/uploads/demo-12.jpeg"
-        ],
-        "videos": [
-          "/api/uploads/ex-army-1.mp4"
-        ],
-        "lat": 27.627622,
-        "lng": 75.174555,
-        "mapsUrl": "https://maps.app.goo.gl/33WyqNj1MMy219JA6",
+        "images": [],
+        "videos": [],
         "createdAt": "2026-09-20T10:00:00.000Z",
         "updatedAt": "2026-09-25T12:00:00.000Z",
-        "whatsapp": "+918725959828",
-        "phone": "+918725959828"
+        "whatsapp": "demo",
+        "phone": "demo"
       }
     ],
     "createdAt": "2026-09-20T10:00:00.000Z",
     "updatedAt": "2026-09-29T17:11:03.325Z",
-    "logo": "/api/uploads/1790545983089-knig5488.jpg"
+    "logo": ""
   }
 ]
